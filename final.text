@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+	<html>
+		<body style="font-family: helvetica; background-color: #9bd5e0;">
+
+			<b>
+				<h1 style="color:#f84364; font-family: harlow solid; font-size: 70px; text-align: center;">Shannon Ellis</h1>
+			</b>
+
+			<h3 style="text-align: center;">Biography</h3>
+
+				<div style="background-color: #ab9aa4; border-radius: 8px;">
+					<p>I am a senior from The Blake School in Minneapolis, Minnesota. I am 17 years old and have one brother 						who is studying computer science at the University of Southern California. I live in Chaska, Minnesota and I 					have lived in the same house that my parents built when they first moved here together.</p>
+
+				</div>
+
+
+			<h3>Likes</h3>
+
+<ul style="background-color: #ab9aa4; border-radius: 8px;">
+<li>Cats</li>
+<li>Lacrosse</li>
+<li>Baking</li>
+<li>Cooking</li>
+</ul>
+
+
+<h3>Dislikes</h3>
+
+<ul style="background-color: #ab9aa4; border-radius: 8px;">
+<li>Tree Nuts</li>
+<li>Socks that are Worn Too High</li>
+<li>Cleaning up after cooking</li>
+</ul>
+
+<h3>Fun Fact</h3>
+
+<p style="background-color: #ab9aa4; border-radius: 8px;">This past spring semester I was apart of a class with only seven people in it that worked on creating a web app to revamp the announcements system in our school. The app will be available for students to use starting this next fall. We used javascript and CSS just like we are learning now!</p>
+
+<div style="text-align: center;">
+<h3>Favorite Websites</h3>
+
+<a style= "background-color: #ab9aa4; border-radius: 5px;" href="https://www.netflix.com">Netflix</a>
+<br></br>
+<a style="background-color: #ab9aa4; border-radius: 5px;" href="https://www.yummly.com">Yummly</a>
+</div>
+</body>
+</html>
